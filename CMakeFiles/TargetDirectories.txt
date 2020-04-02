@@ -1,0 +1,11 @@
+/Users/Athos/ClionProjects/Progetto/CMakeFiles/core.dir
+/Users/Athos/ClionProjects/Progetto/CMakeFiles/rebuild_cache.dir
+/Users/Athos/ClionProjects/Progetto/CMakeFiles/edit_cache.dir
+/Users/Athos/ClionProjects/Progetto/CMakeFiles/FlyJoyride.dir
+/Users/Athos/ClionProjects/Progetto/Test/CMakeFiles/rebuild_cache.dir
+/Users/Athos/ClionProjects/Progetto/Test/CMakeFiles/edit_cache.dir
+/Users/Athos/ClionProjects/Progetto/Test/CMakeFiles/runAllTests.dir
+/Users/Athos/ClionProjects/Progetto/Test/lib/googletest/CMakeFiles/rebuild_cache.dir
+/Users/Athos/ClionProjects/Progetto/Test/lib/googletest/CMakeFiles/edit_cache.dir
+/Users/Athos/ClionProjects/Progetto/Test/lib/googletest/CMakeFiles/gtest_main.dir
+/Users/Athos/ClionProjects/Progetto/Test/lib/googletest/CMakeFiles/gtest.dir
